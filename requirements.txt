@@ -1,0 +1,9 @@
+https://github.com/datahq/auth/archive/master.zip
+flask
+flask-cors
+flask-jsonpify
+flask-admin
+flask-basicauth
+flask-sqlalchemy
+sqlalchemy<1.2
+psycopg2
