@@ -1,4 +1,4 @@
-FROM datopian/auth:external-providers
+FROM datopian/auth:latest
 
 ADD . /ext/plans/
 
