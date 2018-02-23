@@ -32,6 +32,7 @@ def session_scope():
         raise
     finally:
         session.expunge_all()
+        session.close()
 
 
 # ## DB Schema
